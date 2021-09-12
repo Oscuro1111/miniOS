@@ -1,0 +1,7 @@
+iso_img/*.iso
+*.iso
+temp
+*.o
+miniOS
+objs
+objs/*
